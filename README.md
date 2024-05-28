@@ -1,4 +1,4 @@
-# Udemy Course Project - Machine Learning
+# Udemy Course mini Projects - Machine Learning
 
 ## Description
 
