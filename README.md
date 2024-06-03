@@ -55,9 +55,9 @@ To run the notebooks, you need to have Python and Jupyter Notebook installed on 
 2. Install the required dependencies:
     ```bash
     pip install -U scikit-learn
-
+    ```
     or
-
+    ```bash
     conda install scikit-learn
     ```
 
