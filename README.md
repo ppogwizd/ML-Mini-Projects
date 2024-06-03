@@ -18,8 +18,3 @@ This repository contains projects related to machine learning courses on the Ude
 3. **Logistic Regression Project**: Brief description of this project.
 4. **SVM Project**: Brief description of this project.
 5. **KNN Project**: Brief description of this project.
-
-## Running Projects
-
-In each project folder, you'll find a README.md file containing instructions for running the project and required libraries.
-
