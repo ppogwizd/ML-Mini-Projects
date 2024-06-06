@@ -19,22 +19,25 @@ The `ML-Mini-Projects` repository includes a collection of Jupyter notebooks dem
 The repository is organized into the following folders:
 
 1. **Linear Regression**
-    - `ML_Ecommerce_company.ipynb`: A project demonstrating linear regression on e-commerce data.
+    - [1 - Linear Regression](https://github.com/ppogwizd/ML-Mini-Projects/tree/main/1%20-%20Linear%20Regression): A project demonstrating linear regression on e-commerce data.
     
 2. **Logistic Regression**
-    - `ML-Titanic.ipynb`: A project utilizing logistic regression to predict Titanic survival rates.
+    - [`ML-Titanic.ipynb`](ML-Titanic.ipynb): A project utilizing logistic regression to predict Titanic survival rates.
     
 3. **K Nearest Neighbors**
-    - `KNN.ipynb`: A project showcasing the K Nearest Neighbors algorithm.
+    - [`KNN.ipynb`](KNN.ipynb): A project showcasing the K Nearest Neighbors algorithm.
     
 4. **Decision Trees and Random Forests**
-    - `DT_RF_Loans_Project.ipynb`: A project applying decision trees and random forests to a loans dataset.
+    - [`DT_RF_Loans_Project.ipynb`](DT_RF_Loans_Project.ipynb): A project applying decision trees and random forests to a loans dataset.
     
 5. **Support Vector Machines**
-    - `SVM_Iris_project.ipynb`: A project using support vector machines on the Iris dataset.
+    - [`SVM_Iris_project.ipynb`](SVM_Iris_project.ipynb): A project using support vector machines on the Iris dataset.
     
 6. **K Means**
-    - `02-K Means Clustering Project.ipynb`: A project demonstrating K Means clustering.
+    - [`02-K Means Clustering Project.ipynb`](02-K Means Clustering Project.ipynb): A project demonstrating K Means clustering.
+
+7. **Natural Language Processing**
+    - [`NLP_Spam_Detection.ipynb`](NLP_Spam_Detection.ipynb): A project demonstrating natural language processing for spam detection.
 
 ## Technologies
 
