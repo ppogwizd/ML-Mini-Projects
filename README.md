@@ -19,25 +19,26 @@ The `ML-Mini-Projects` repository includes a collection of Jupyter notebooks dem
 The repository is organized into the following folders:
 
 1. **Linear Regression**
-    - [1 - Linear Regression](https://github.com/ppogwizd/ML-Mini-Projects/tree/main/1%20-%20Linear%20Regression): A project demonstrating linear regression on e-commerce data.
+    - [`ML_Ecommerce_company.ipynb`](https://github.com/ppogwizd/ML-Mini-Projects/blob/main/1%20-%20Linear%20Regression/ML_Ecommerce_company.ipynb): A project demonstrating linear regression on e-commerce data.
     
 2. **Logistic Regression**
-    - [`ML-Titanic.ipynb`](ML-Titanic.ipynb): A project utilizing logistic regression to predict Titanic survival rates.
+    - [`ML-Titanic.ipynb`](https://github.com/ppogwizd/ML-Mini-Projects/blob/main/2%20-%20Logistic%20Regression/ML-Titanic.ipynb): A project utilizing logistic regression to predict Titanic survival rates.
     
 3. **K Nearest Neighbors**
-    - [`KNN.ipynb`](KNN.ipynb): A project showcasing the K Nearest Neighbors algorithm.
+    - [`KNN.ipynb`](https://github.com/ppogwizd/ML-Mini-Projects/blob/main/3%20-%20K%20Nearest%20Neighbors/KNN.ipynb): A project showcasing the K Nearest Neighbors algorithm.
     
 4. **Decision Trees and Random Forests**
-    - [`DT_RF_Loans_Project.ipynb`](DT_RF_Loans_Project.ipynb): A project applying decision trees and random forests to a loans dataset.
+    - [`DT _RF_Loans_Project.ipynb`](https://github.com/ppogwizd/ML-Mini-Projects/blob/main/4%20-%20Decision%20Trees%20and%20Random%20Forests/DT%20_RF_Loans_Project.ipynb): A project applying decision trees and random forests to a loans dataset.
     
 5. **Support Vector Machines**
-    - [`SVM_Iris_project.ipynb`](SVM_Iris_project.ipynb): A project using support vector machines on the Iris dataset.
+    - [`SVM_Iris_project.ipynb`](https://github.com/ppogwizd/ML-Mini-Projects/blob/main/5%20-%20Support%20Vector%20Machines/SVM_Iris_project.ipynb): A project using support vector machines on the Iris dataset.
     
 6. **K Means**
-    - [`02-K Means Clustering Project.ipynb`](02-K Means Clustering Project.ipynb): A project demonstrating K Means clustering.
+    - [`K Means Clustering Project.ipynb`](https://github.com/ppogwizd/ML-Mini-Projects/blob/main/6%20-%20K%20Means/K%20Means%20Clustering%20Project.ipynb): A project demonstrating K Means clustering.
 
 7. **Natural Language Processing**
-    - [`NLP_Spam_Detection.ipynb`](NLP_Spam_Detection.ipynb): A project demonstrating natural language processing for spam detection.
+    - [`Spam_Detector_Project.ipynb`](https://github.com/ppogwizd/ML-Mini-Projects/blob/main/7%20-%20Natural%20Language%20Processing/Spam%20detector/Spam_Detector_Project.ipynb): A project demonstrating natural language processing for spam detection.
+    - [`Yelp_Reviews_Classifier.ipynb`](https://github.com/ppogwizd/ML-Mini-Projects/blob/main/7%20-%20Natural%20Language%20Processing/Yelp%20Reviews%20classifier/Yelp_Reviews_Classifier.ipynb): A project classifying Yelp reviews using natural language processing techniques.
 
 ## Technologies
 
@@ -55,13 +56,22 @@ To run the notebooks, you need to have Python and Jupyter Notebook installed on 
     cd ML-Mini-Projects
     ```
 
-2. Install the required dependencies:
+2. Install the required libraries:
     ```bash
     pip install -U scikit-learn
     ```
     or
     ```bash
     conda install scikit-learn
+    ```
+3. For Natural Language Processing you need to install the `nltk` library and download the `stopwords` package:
+    ```bash
+    pip install nltk
+    ```
+    After installing `nltk`, you need to download the `stopwords` package. You can do this by running the following commands in a Python environment:
+    ```python
+    import nltk
+    nltk.download('stopwords')
     ```
 
 ## Usage
