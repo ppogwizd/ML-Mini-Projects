@@ -48,7 +48,7 @@ The repository is organized into the following folders:
 
 - **Python**: The primary language used for implementing the machine learning algorithms.
 - **Jupyter Notebook**: An interactive environment for running the code and visualizing the results.
-- **Various Python Libraries**: Including but not limited to `numpy`, `pandas`, `scikit-learn`, `matplotlib`, and `seaborn`.
+- **Various Python Libraries**: Including but not limited to `numpy`, `pandas`, `scikit-learn`, `tensorflow`, `matplotlib`, and `seaborn`.
 
 ## Installation
 
