@@ -39,6 +39,10 @@ The repository is organized into the following folders:
 7. **Natural Language Processing**
     - [`Spam_Detector_Project.ipynb`](https://github.com/ppogwizd/ML-Mini-Projects/blob/main/7%20-%20Natural%20Language%20Processing/Spam%20detector/Spam_Detector_Project.ipynb): A project demonstrating natural language processing for spam detection.
     - [`Yelp_Reviews_Classifier.ipynb`](https://github.com/ppogwizd/ML-Mini-Projects/blob/main/7%20-%20Natural%20Language%20Processing/Yelp%20Reviews%20classifier/Yelp_Reviews_Classifier.ipynb): A project classifying Yelp reviews using natural language processing techniques.
+    - 
+8. **Neural Nets and Deep Learning**
+    - [8 - Neural Nets and Deep Learning](https://github.com/ppogwizd/ML-Mini-Projects/tree/main/8%20-%20Neural%20Nets%20and%20Deep%20Learning): This section delves into the exploration and implementation of neural networks and deep learning models, showcasing their applications and functionalities within machine learning projects.
+
 
 ## Technologies
 
@@ -72,6 +76,10 @@ To run the notebooks, you need to have Python and Jupyter Notebook installed on 
     ```python
     import nltk
     nltk.download('stopwords')
+    ```
+4. For Neural Nets and Deep Learning you need to install the `tensorflow` library:
+    ```bash
+    pip install tensorflow
     ```
 
 ## Usage
