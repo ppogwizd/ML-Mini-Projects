@@ -6,7 +6,7 @@ This project aims to build a predictive model that determines whether a customer
 2. **Data Preprocessing**
 3. **Model Evaluation and Performance**
 
-The model leverages neural networks and deep learning techniques using technologies such as TensorFlow, Keras, Pandas, NumPy, Seaborn, and Matplotlib. The project is implemented in Python using Jupyter Notebook.
+The model leverages neural networks and deep learning techniques using technologies such as TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Seaborn, and Matplotlib. The project is implemented in Python using Jupyter Notebook.
 
 ## Repository Structure
 
@@ -51,6 +51,7 @@ The model leverages neural networks and deep learning techniques using technolog
 - **Python**: Programming language.
 - **Jupyter Notebook**: Interactive notebook environment.
 - **TensorFlow & Keras**: Deep learning frameworks.
+- **Scikit-learn**: Machine learning library.
 - **Pandas**: Data manipulation and analysis.
 - **NumPy**: Numerical computing.
 - **Seaborn & Matplotlib**: Data visualization.
